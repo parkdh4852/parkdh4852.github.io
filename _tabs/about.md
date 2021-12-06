@@ -9,7 +9,3 @@ order: 4
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-
-### Gunho Park
-
->  Email : hoho4852@gmail.com
